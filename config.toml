@@ -1,0 +1,4 @@
+baseURL = 'https://monarch.one.github.io/'
+languageCode = 'es-ar'
+title = 'A libertarian’s blog'
+theme = 'PaperMod'
